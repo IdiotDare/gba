@@ -56,7 +56,7 @@ canvas {
     margin: auto;
     display: block;
     padding: 0px;
-    background-color: rgb(0, 255, 255);//ori 248, 248, 248
+    background-color: rgb(0, 255, 255);/*ori 248, 248, 248*/
     cursor: none;
 }
 
@@ -82,7 +82,7 @@ canvas.texturePixelated {
  */
 
 .message {
-    background: #6cc27d;
+    background: #555555;/*ori:6cc27d*/
     padding: 1em 2em;
     text-align: center;
     color: #fff;
