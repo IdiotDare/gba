@@ -1,3 +1,1 @@
-# gba
-http://jsemu2.github.io/gba/
- lol
+# dw about it lol
